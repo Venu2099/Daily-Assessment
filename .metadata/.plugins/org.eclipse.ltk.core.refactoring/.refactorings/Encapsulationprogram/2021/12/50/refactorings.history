@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;student.avg&apos; in &apos;student&apos;&#x0D;&#x0A;- Original project: &apos;Encapsulationprogram&apos;&#x0D;&#x0A;- Original element: &apos;student.avg&apos;&#x0D;&#x0A;- Getter method name: &apos;getAvg&apos;&#x0D;&#x0A;- Setter method name: &apos;setAvg&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;avg&apos;" flags="589830" getter="getAvg" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;{polymorphism.java[student^avg" insertion="1" setter="setAvg" stamp="1638953091803" version="1.0" visibility="1"/>
+</session>

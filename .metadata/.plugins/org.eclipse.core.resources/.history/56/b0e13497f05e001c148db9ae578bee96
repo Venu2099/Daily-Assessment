@@ -1,0 +1,10 @@
+package Project;
+
+public class Laptop {
+
+	public void setModelNo(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

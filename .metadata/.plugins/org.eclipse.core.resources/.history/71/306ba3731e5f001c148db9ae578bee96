@@ -1,0 +1,11 @@
+
+public class Books {
+    private String bookID;
+    private String bookName;
+
+    public String getBookID() {
+        return bookID;
+    }
+   //getters and setters 
+ 
+}
