@@ -12,4 +12,9 @@
     <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServletRequest"/>
     <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServletResponse"/>
     <fullyQualifiedTypeName name="jakarta.servlet.ServletException"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="com.example.demo.repository.CountryRepository"/>
+    <fullyQualifiedTypeName name="com.example.demo.Classread.Country"/>
+    <fullyQualifiedTypeName name="com.example.demo.entity.Continent"/>
 </qualifiedTypeNameHistroy>
