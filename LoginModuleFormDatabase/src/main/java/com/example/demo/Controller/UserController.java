@@ -18,7 +18,7 @@ public class UserController {
     @Autowired
     private UserRepository userRepo;
 
-    @GetMapping("")
+    @GetMapping("/Login")
     public String viewHomePage() {
         return "index";
     }
@@ -26,7 +26,7 @@ public class UserController {
     public String showRegistrationForm(Model model) {
         model.addAttribute("user", new CompanyUser());
 
-        return "signup_form";
+        return "signup";
     }
     @PostMapping("/process_register")
     public String processRegister(CompanyUser user) {
@@ -36,13 +36,13 @@ public class UserController {
 
         userRepo.save(user);
 
-        return "register_success";
+        return "register-success";
     }
     @GetMapping("/users")
     public String listUsers(Model model) {
         List<CompanyUser> listUsers = userRepo.findAll();
         model.addAttribute("listUsers", listUsers);
 
-        return "users";
+        return "user";
     }
 }

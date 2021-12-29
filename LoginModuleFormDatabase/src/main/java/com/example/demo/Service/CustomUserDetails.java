@@ -71,6 +71,11 @@ public class CustomUserDetails implements UserDetails {
         // TODO Auto-generated method stub
         return user.getUsername();
     }
+
+	public CustomUserDetails() {
+		super();
+	}
+    
  
     
  
