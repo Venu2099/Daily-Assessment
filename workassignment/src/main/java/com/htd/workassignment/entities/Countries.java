@@ -15,6 +15,7 @@ public class Countries {
 
 	@Id
 	@Column(name = "countryId")
+	
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private long countryId;
 
