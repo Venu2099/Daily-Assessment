@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.example.demo.Service.CustomUserDetailsService"/>
-    <fullyQualifiedTypeName name="com.example.demo.repository.UserRepository"/>
-    <fullyQualifiedTypeName name="com.example.demo.model.CompanyUser"/>
-    <fullyQualifiedTypeName name="com.example.demo.Service.CustomUserDetails"/>
-    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.configuration.EnableWebSecurity"/>
-    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter"/>
-    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder"/>
-    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.builders.HttpSecurity"/>
-    <fullyQualifiedTypeName name="com.htd.SpringSecurityWithDatabase.repos.UserRepository"/>
-    <fullyQualifiedTypeName name="com.htd.SpringSecurityWithDatabase.entities.OrderDetail"/>
     <fullyQualifiedTypeName name="com.example.demo.model.Order"/>
     <fullyQualifiedTypeName name="javax.persistence.Column"/>
     <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
@@ -32,7 +22,6 @@
     <fullyQualifiedTypeName name="com.example.demo.repository.SalesFactRepository"/>
     <fullyQualifiedTypeName name="com.example.demo.model.SalesFact"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
     <fullyQualifiedTypeName name="org.springframework.data.annotation.Id"/>
     <fullyQualifiedTypeName name="javax.persistence.Id"/>
     <fullyQualifiedTypeName name="java.io.Serializable"/>
@@ -60,4 +49,15 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="org.springframework.data.domain.Example"/>
     <fullyQualifiedTypeName name="org.springframework.data.jpa.domain.JpaSort"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="com.rabbitmq.client.AMQP.Queue"/>
+    <fullyQualifiedTypeName name="org.springframework.amqp.core.TopicExchange"/>
+    <fullyQualifiedTypeName name="javax.naming.Binding"/>
+    <fullyQualifiedTypeName name="org.springframework.amqp.core.BindingBuilder"/>
+    <fullyQualifiedTypeName name="org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer"/>
+    <fullyQualifiedTypeName name="com.rabbitmq.client.ConnectionFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.amqp.rabbit.listener.adapter.MessageListenerAdapter"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.SpringBootApplication"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.SpringApplication"/>
+    <fullyQualifiedTypeName name="java.nio.charset.StandardCharsets"/>
 </qualifiedTypeNameHistroy>
